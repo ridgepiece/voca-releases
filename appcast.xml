@@ -23,5 +23,11 @@
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/ridgepiece/voca-releases/releases/download/voca-v0.1.4/Voca-0.1.4.dmg" sparkle:version="6" sparkle:shortVersionString="0.1.4" length="2980186" type="application/octet-stream" sparkle:edSignature="3jOOEqzc7HXypBl/n79368HHCaq5xxs9lDaZl5wH33FinqkVfHmBkI+YeTssjGwb0J7faDl43NyjZcNyZg9VAw==" />
     </item>
+    <item>
+      <title>Version 0.1.5</title>
+      <pubDate>Wed, 22 Apr 2026 11:02:49 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ridgepiece/voca-releases/releases/download/voca-v0.1.5/Voca-0.1.5.dmg" sparkle:version="7" sparkle:shortVersionString="0.1.5" length="2992911" type="application/octet-stream" sparkle:edSignature="WJyy+LKs4ElUeL6DDlIcU76HU7Hnc5r+7Yf4FayEPXBH2Gtk78sn1TixaUI88pS9zFxVOMurc3Mnh8m5keBdDA==" />
+    </item>
   </channel>
 </rss>
